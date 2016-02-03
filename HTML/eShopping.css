@@ -1,0 +1,46 @@
+nav{
+	/*display:/*block*/
+	background-color: #cc3700;
+	height: 30px;
+	/*text-align: center;*/
+	vertical-align: middle;
+	line-height: 30px;
+	/*margin-left: 160px;*/
+
+}
+
+img{
+	/*float: left;*/
+	vertical-align: middle;
+
+}
+
+/*.GridDivClass{
+
+	display:grid;
+	grid-template-columns: 100px 10px 100px 10px 100px;
+
+    height: 150px;
+    width: 150px;
+}*/
+
+li{
+	display: inline;
+	padding-right: 150px;
+}
+
+a{
+	text-decoration: none;
+	font-size: 26px;
+}
+
+.InnerDivClass{
+	background-color: #000000;
+	width: 100px;
+	height: 100px;
+	/*outline: 50px;*/
+	 /*border: 20px solid blue;*/
+	 margin-right: 20px;
+	float: left;
+
+}
